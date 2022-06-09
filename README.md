@@ -1,2 +1,2 @@
-# Curriculo
+# Currículo
 Repositorio de teste
