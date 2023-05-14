@@ -1,9 +1,5 @@
 # Alice Tonelli Ramponi
 
-### Endereço: *Rua Pedro Marengue 47*
- 
----
-
 ### Escolaridades
 
 
