@@ -28,6 +28,6 @@
 ### Projetos Pessoais
 
 + Pokedex - 
-[link o projeto](https://alice760.github.io/pokedex/)
+[link para o projeto](https://alice760.github.io/pokedex/)
  
  
