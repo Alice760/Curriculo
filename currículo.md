@@ -25,5 +25,6 @@
 
 + Pokedex - 
 [link para o projeto](https://alice760.github.io/pokedex/)
++ Lading Page - [link para o projeto](https://alice760.github.io/lading-page/)
  
  
